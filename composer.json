@@ -21,9 +21,9 @@
         }
     ],
     "require": {
-        "php": "^7.0",
+        "php": ">=7.0",
         "league/flysystem": "^1.0",
-        "guzzlehttp/guzzle": "^6.2",
+        "guzzlehttp/guzzle": ">=6.2",
         "microsoft/microsoft-graph": "^1.13"
     },
     "require-dev": {
