@@ -1,7 +1,6 @@
 {
     "name": "skinka/flysystem-msgraph-files",
     "description": "Flysystem adapter for OneDrive or SharePoint",
-    "version": "1.0.2-dev",
     "minimum-stability": "stable",
     "license": "MIT",
     "homepage": "https://github.com/skinka/flysystem-msgraph-files",
